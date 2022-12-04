@@ -14,7 +14,7 @@ tecnologias que estou aprendendo:<br><br>
   
 <a href="https://www.linkedin.com/in/robson-franett-054a8a19b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:robsomfranett@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>	<a href="https://www.twitch.tv/robsonfranett" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a><a href="https://www.instagram.com/robsonfranett/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br><br>
 
-<img src="https://media.giphy.com/media/ykpYqobPul9g6Vlp8e/giphy.gif">
+<img src="https://media.giphy.com/media/kyb3QzrKB9tX2xz3p8/giphy.gif">
 
 ***Apaixonado por tecnologias, artes e jogos de pc***
 
